@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.PlayMusic" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#EDE7FF</item>
+        <item name="android:navigationBarColor">#EDE7FF</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorAccent">#6D28D9</item>
+    </style>
+</resources>
